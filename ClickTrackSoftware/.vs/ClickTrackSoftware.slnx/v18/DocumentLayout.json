@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\playlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:playlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\allplaylistspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:allplaylistspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\playlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:playlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\alltrackspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:alltrackspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\alltrackspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:alltrackspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\allplaylistspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:allplaylistspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\trackplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:trackplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\playlistpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:playlistpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\allplaylistspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:allplaylistspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\alltrackspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:alltrackspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\alltrackspage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:alltrackspage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\trackplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:trackplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\trackplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:trackplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|c:\\softwaredev\\clicktrack software\\clicktracksoftware\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C1F0147-9D42-5B6B-41AE-ABA02ACF7223}|ClickTrackSoftware.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA841FF-6D2C-4B14-9DC7-93FE248F21FC}|ClickTrackSoftware.csproj|C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEA841FF-6D2C-4B14-9DC7-93FE248F21FC}|ClickTrackSoftware.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T15:04:05.395Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllTracksPage.cs [Design]",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.cs",
+              "RelativeDocumentMoniker": "AllTracksPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.cs [Design]",
+              "RelativeToolTip": "AllTracksPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:11:21.503Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaylistPage.cs [Design]",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\PlaylistPage.cs",
+              "RelativeDocumentMoniker": "PlaylistPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\PlaylistPage.cs [Design]",
+              "RelativeToolTip": "PlaylistPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T03:21:35.675Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaylistPage.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\PlaylistPage.cs",
+              "RelativeDocumentMoniker": "PlaylistPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\PlaylistPage.cs",
+              "RelativeToolTip": "PlaylistPage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T03:24:58.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllPlaylistsPage.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllPlaylistsPage.cs",
+              "RelativeDocumentMoniker": "AllPlaylistsPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllPlaylistsPage.cs",
+              "RelativeToolTip": "AllPlaylistsPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:25:32.207Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllTracksPage.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.cs",
+              "RelativeDocumentMoniker": "AllTracksPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.cs",
+              "RelativeToolTip": "AllTracksPage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:39:35.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllPlaylistsPage.cs [Design]",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllPlaylistsPage.cs",
+              "RelativeDocumentMoniker": "AllPlaylistsPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllPlaylistsPage.cs [Design]",
+              "RelativeToolTip": "AllPlaylistsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T02:05:24.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrackPlayer.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\TrackPlayer.cs",
+              "RelativeDocumentMoniker": "TrackPlayer.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\TrackPlayer.cs",
+              "RelativeToolTip": "TrackPlayer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwDIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:44:27.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaylistPage.Designer.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\PlaylistPage.Designer.cs",
+              "RelativeDocumentMoniker": "PlaylistPage.Designer.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\PlaylistPage.Designer.cs",
+              "RelativeToolTip": "PlaylistPage.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T20:45:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllPlaylistsPage.Designer.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllPlaylistsPage.Designer.cs",
+              "RelativeDocumentMoniker": "AllPlaylistsPage.Designer.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllPlaylistsPage.Designer.cs",
+              "RelativeToolTip": "AllPlaylistsPage.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAjwGcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:56:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllTracksPage.Designer.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.Designer.cs",
+              "RelativeDocumentMoniker": "AllTracksPage.Designer.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.Designer.cs",
+              "RelativeToolTip": "AllTracksPage.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T00:01:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllTracksPage.resx",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.resx",
+              "RelativeDocumentMoniker": "AllTracksPage.resx",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\AllTracksPage.resx",
+              "RelativeToolTip": "AllTracksPage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-24T01:10:55.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackPlayer.Designer.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\TrackPlayer.Designer.cs",
+              "RelativeDocumentMoniker": "TrackPlayer.Designer.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\TrackPlayer.Designer.cs",
+              "RelativeToolTip": "TrackPlayer.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAjwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:44:01.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrackPlayer.cs [Design]",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\TrackPlayer.cs",
+              "RelativeDocumentMoniker": "TrackPlayer.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\TrackPlayer.cs [Design]",
+              "RelativeToolTip": "TrackPlayer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:43:59.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.Designer.cs",
+              "RelativeDocumentMoniker": "MainPage.Designer.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.Designer.cs",
+              "RelativeToolTip": "MainPage.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T15:32:09.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.cs",
+              "RelativeToolTip": "MainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T15:31:34.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:18:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\rymon\\Downloads\\A-PersonalShit\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\rymon\\Downloads\\A-PersonalShit\\SoftwareDev\\ClickTrack Software\\ClickTrackSoftware\\MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:41:10.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
