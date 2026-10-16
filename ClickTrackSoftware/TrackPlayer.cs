@@ -31,24 +31,26 @@ namespace ClickTrackSoftware
             _playlistName = playlistName;
         }
 
-        private WaveOutEvent _output;
-        private AudioFileReader _audioFile;
+        private WaveOutEvent _output = new WaveOutEvent();
+        private AudioFileReader? _audioFile;
         private bool _isDragging = false;
         private bool _isPlaying = false;
-        private string _currentSong;
+        private string? _currentSong;
 
         private void BackButton_Click(object sender, EventArgs e)
         {
             if (_playlistName == "")
             {
-                Form1 form = (Form1)this.FindForm();
-                form.ShowPanel(new AllTracksPage());
+                Form1? form = (Form1?)this.FindForm();
+                if (form != null)
+                    form.ShowPanel(new AllTracksPage());
                 
             }
             else
             {
-                Form1 form = (Form1)this.FindForm();
-                form.ShowPanel(new PlaylistPage(_playlistName));
+                Form1? form = (Form1?)this.FindForm();
+                if (form != null)
+                    form.ShowPanel(new PlaylistPage(_playlistName));
             }
             if (_output != null)
                 _output.Stop();
@@ -59,7 +61,6 @@ namespace ClickTrackSoftware
         private void LoadSong(string path)
         {
             _audioFile = new AudioFileReader("../../../../ClickTracks/" + path);
-            _output = new WaveOutEvent();
             _output.Init(_audioFile);
             TrackLengthLabel.Text = _audioFile.TotalTime.ToString(@"mm\:ss");
             SongTitleLabel.Text = "Song Title: ";
@@ -67,14 +68,14 @@ namespace ClickTrackSoftware
         }
         private void PlayButton_Click(object sender, EventArgs e)
         {
-            if (!_isPlaying)
+            if (!_isPlaying && _output != null)
             {
                 _output.Play();
                 songTimer.Start();
                 _isPlaying = true;
                 PlayButton.Text = "⏸️";
             }
-            else
+            else if (_output != null)
             {
                 _output.Stop();
                 PlayButton.Text = "▶️";
@@ -103,20 +104,20 @@ namespace ClickTrackSoftware
         private void TrackBar_MouseUp(object sender, MouseEventArgs e)
         {
             float progress = trackBar.Value / 1000f;
-
-            _audioFile.CurrentTime = TimeSpan.FromMilliseconds(
+            if (_audioFile != null)
+                _audioFile.CurrentTime = TimeSpan.FromMilliseconds(
                     _audioFile.TotalTime.TotalMilliseconds * progress
                 );
 
             _isDragging = false;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void backButton_Click(object sender, EventArgs e)
         {
-
+            
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void nextSongButton(object sender, EventArgs e)
         {
 
         }
@@ -126,7 +127,8 @@ namespace ClickTrackSoftware
             _output.Stop();
             PlayButton.Text = "▶️";
             _isPlaying = false;
-            LoadSong(_currentSong);
+            if(_currentSong != null)
+                LoadSong(_currentSong);
         }
     }
 }

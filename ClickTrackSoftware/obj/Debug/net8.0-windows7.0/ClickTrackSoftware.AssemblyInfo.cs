@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClickTrackSoftware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bb39c3f1238eea3848954b276d043e70a392f9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbda59870bad34dee2effad66587aaf950da09da")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClickTrackSoftware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClickTrackSoftware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

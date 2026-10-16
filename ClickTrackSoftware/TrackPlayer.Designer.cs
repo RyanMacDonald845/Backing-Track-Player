@@ -137,7 +137,7 @@ namespace ClickTrackSoftware
             PreviousSongButton.TabIndex = 6;
             PreviousSongButton.Text = "|<";
             PreviousSongButton.UseVisualStyleBackColor = false;
-            PreviousSongButton.Click += button1_Click;
+            PreviousSongButton.Click += backButton_Click;
             // 
             // NextSongButton
             // 
@@ -152,7 +152,7 @@ namespace ClickTrackSoftware
             NextSongButton.TabIndex = 7;
             NextSongButton.Text = ">|";
             NextSongButton.UseVisualStyleBackColor = false;
-            NextSongButton.Click += button1_Click_1;
+            NextSongButton.Click += nextSongButton;
             // 
             // RestartSongButton
             // 

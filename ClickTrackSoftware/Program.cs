@@ -9,7 +9,9 @@ namespace ClickTrackSoftware
         //
         // Bugs
         // 1. you cant upload the same track in alltracks
-        // 2. 
+
+        //Features to implement
+        //1. Add functionality to skip button
         [STAThread]
         static void Main()
         {
